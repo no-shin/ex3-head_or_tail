@@ -1,4 +1,7 @@
 import random
+print("Who are you?")
+name=input("> ")
+print("Hello, John!")
 print("Tossing a coin...")
 head=0
 tail=0
