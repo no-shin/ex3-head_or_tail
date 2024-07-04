@@ -15,3 +15,7 @@ for i in range(3):
         head+=1
 
 print(f"Heads: {head},Tails: {tail}")
+if head > tail:
+    print(f"You won!")
+else:
+    print(f"You lost!")
